@@ -3,11 +3,11 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class createemployeepage {
+public class create_employee_page {
     private WebDriver driver;
     //private Object UIElementExtentions;
 
-    public createemployeepage(WebDriver driver) {
+    public create_employee_page(WebDriver driver) {
         this.driver = driver;
     }
     //locator name
